@@ -1,6 +1,6 @@
 ﻿using Xamarin.Forms;
 
-namespace SmartHotel.Clients.Core.Helpers
+namespace SmartHotel.Helpers
 {
     public class StatusBarHelper
     {

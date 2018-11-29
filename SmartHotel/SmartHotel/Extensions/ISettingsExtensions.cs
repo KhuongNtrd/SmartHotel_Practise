@@ -3,7 +3,7 @@ using Newtonsoft.Json.Serialization;
 using Plugin.Settings.Abstractions;
 using System;
 
-namespace SmartHotel.Clients.Core.Extensions
+namespace SmartHotel.Extensions
 {
     public static class ISettingsExtensions
     {

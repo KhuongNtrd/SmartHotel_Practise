@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Threading.Tasks;
 
-namespace SmartHotel.Clients.Core.Services.Dialog
+namespace SmartHotel.Services.Dialog
 {
     public interface IDialogService
     {

@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Collections.ObjectModel;
 
-namespace SmartHotel.Clients.Core.Extensions
+namespace SmartHotel.Extensions
 {
     public static class ObservableExtension
     {

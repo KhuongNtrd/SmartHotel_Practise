@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace SmartHotel.Clients.Core.Services.Booking
+namespace SmartHotel.Services.Booking
 {
     public class FakeBookingService : IBookingService
     {

@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Threading.Tasks;
 
-namespace SmartHotel.Clients.Core.Services.Hotel
+namespace SmartHotel.Services.Hotel
 {
     public interface IHotelService
     {

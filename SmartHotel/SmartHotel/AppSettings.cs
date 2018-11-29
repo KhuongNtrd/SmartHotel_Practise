@@ -1,9 +1,9 @@
 ﻿using Plugin.Settings;
 using Plugin.Settings.Abstractions;
-using SmartHotel.Clients.Core.Extensions;
-using SmartHotel.Clients.Core.Models;
+using SmartHotel.Extensions;
+using SmartHotel.Models;
 
-namespace SmartHotel.Clients.Core
+namespace SmartHotel
 {
     public static class AppSettings
     {

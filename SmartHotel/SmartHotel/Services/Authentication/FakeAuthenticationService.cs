@@ -1,7 +1,7 @@
 ﻿using System.Threading.Tasks;
-using SmartHotel.Clients.Core.Models;
+using SmartHotel.Models;
 
-namespace SmartHotel.Clients.Core.Services.Authentication
+namespace SmartHotel.Services.Authentication
 {
     public class FakeAuthenticationService : IAuthenticationService
     {

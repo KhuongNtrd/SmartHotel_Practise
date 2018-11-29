@@ -1,9 +1,9 @@
-﻿using SmartHotel.Clients.Core.Models;
+﻿using SmartHotel.Models;
 using System;
 using System.Diagnostics;
 using Xamarin.Forms.Maps;
 
-namespace SmartHotel.Clients.Core.Helpers
+namespace SmartHotel.Helpers
 {
     public static class MapHelper
     {

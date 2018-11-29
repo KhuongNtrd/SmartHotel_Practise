@@ -1,4 +1,4 @@
-﻿namespace SmartHotel.Clients.Core.Models
+﻿namespace SmartHotel.Models
 {
     public class User
     {

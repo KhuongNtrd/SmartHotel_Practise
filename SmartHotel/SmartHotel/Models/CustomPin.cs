@@ -1,6 +1,6 @@
 ﻿using Xamarin.Forms.Maps;
 
-namespace SmartHotel.Clients.Core.Models
+namespace SmartHotel.Models
 {
     public class CustomPin
     {

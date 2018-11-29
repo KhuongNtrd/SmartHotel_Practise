@@ -1,7 +1,7 @@
-﻿using SmartHotel.Clients.Core.Models;
+﻿using SmartHotel.Models;
 using System.Threading.Tasks;
 
-namespace SmartHotel.Clients.Core.Services.Authentication
+namespace SmartHotel.Services.Authentication
 {
     public interface IAuthenticationService
     {

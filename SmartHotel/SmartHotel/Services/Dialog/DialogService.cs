@@ -5,7 +5,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Xamarin.Forms;
 
-namespace SmartHotel.Clients.Core.Services.Dialog
+namespace SmartHotel.Services.Dialog
 {
     public class DialogService : IDialogService
     {

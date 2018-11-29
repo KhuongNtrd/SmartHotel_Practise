@@ -1,7 +1,7 @@
 ﻿using System.Collections.ObjectModel;
 using System.Threading.Tasks;
 
-namespace SmartHotel.Clients.Core.Services.Suggestion
+namespace SmartHotel.Services.Suggestion
 {
     public interface ISuggestionService
     {

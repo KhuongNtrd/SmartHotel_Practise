@@ -2,7 +2,7 @@
 using System.Threading.Tasks;
 using Xamarin.Forms;
 
-namespace SmartHotel.Clients.Core.Services.Suggestion
+namespace SmartHotel.Services.Suggestion
 {
     public class FakeSuggestionService : ISuggestionService
     {

@@ -1,7 +1,7 @@
 ﻿using System;
 using System.IO;
 
-namespace SmartHotel.Clients.Core.Extensions
+namespace SmartHotel.Extensions
 {
     internal static class UriBuilderExtensions
     {

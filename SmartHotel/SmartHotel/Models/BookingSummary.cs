@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace SmartHotel.Clients.Core.Models
+namespace SmartHotel.Models
 {
     public class BookingSummary
     {

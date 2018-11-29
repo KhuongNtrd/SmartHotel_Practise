@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Threading.Tasks;
 
-namespace SmartHotel.Clients.Core.Services.Booking
+namespace SmartHotel.Services.Booking
 {
     public interface IBookingService
     {

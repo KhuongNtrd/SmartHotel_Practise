@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Text;
 
-namespace SmartHotel.Clients.Core.Services.Authentication
+namespace SmartHotel.Services.Authentication
 {
     public class GravatarUrlProvider : IAvatarUrlProvider
     {

@@ -1,4 +1,4 @@
-﻿namespace SmartHotel.Clients.Core.Services.Authentication
+﻿namespace SmartHotel.Services.Authentication
 {
     public interface IAvatarUrlProvider
     {

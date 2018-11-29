@@ -1,9 +1,8 @@
-﻿using SmartHotel.Clients.Core.ViewModels.Base;
-using System;
+﻿using System;
 using System.Threading.Tasks;
 using Xamarin.Forms;
 
-namespace SmartHotel.Clients.Core.Models
+namespace SmartHotel.Models
 {
     public class MenuItem : BindableObject
     {

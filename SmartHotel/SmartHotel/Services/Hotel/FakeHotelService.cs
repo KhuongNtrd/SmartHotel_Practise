@@ -1,12 +1,12 @@
 ﻿using System.Threading.Tasks;
-using SmartHotel.Clients.Core.Models;
+using SmartHotel.Models;
 using System.Collections.Generic;
-using SmartHotel.Clients.Core.Extensions;
+using SmartHotel.Extensions;
 using System.Linq;
 using System;
 using Xamarin.Forms;
 
-namespace SmartHotel.Clients.Core.Services.Hotel
+namespace SmartHotel.Services.Hotel
 {
     public class FakeHotelService : IHotelService
     {

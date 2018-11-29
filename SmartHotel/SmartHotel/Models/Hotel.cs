@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace SmartHotel.Clients.Core.Models
+namespace SmartHotel.Models
 {
     public class Hotel
     {

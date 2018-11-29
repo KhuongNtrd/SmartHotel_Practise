@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Globalization;
 
-namespace SmartHotel.Clients.Core.Models
+namespace SmartHotel.Models
 {
     public class GeoLocation : ILocationResponse
     {
